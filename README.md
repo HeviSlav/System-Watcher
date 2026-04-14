@@ -1,1 +1,3 @@
 # System-Watcher
+
+Tato aplikace slouží jako komplexní diagnostický nástroj pro absolutní monitoring všech hardwarových i systémových čidel ve vašem počítači. V reálném čase sleduje a zaznamenává data z procesoru, grafické karty, všech ventilátorů i rychlost a stabilitu internetového připojení. Díky hloubkovému přístupu k systému dokáže uživateli poskytnout přesné informace o teplotách, otáčkách a vytížení každé jednotlivé komponenty. Klíčovou funkcí je možnost připnout si vybrané hodnoty, jako jsou FPS nebo teploty, do nastavitelného overlaye, který zůstává viditelný i během hraní her. Program tak představuje nepostradatelného pomocníka pro každého, kdo chce mít pod kontrolou výkon své sestavy, ať už při práci, nebo v maximální herní zátěži.
